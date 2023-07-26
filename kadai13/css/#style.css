@@ -1,0 +1,30 @@
+
+
+    
+@charset　"UTF-8";
+
+body{
+    margin: 0;
+}
+
+.header_logo{
+    text-align: center;
+}
+
+.header_navlist{
+    border-top: 1px solid #000;
+    border-bottom:1px#000;
+}
+
+.header_navlist li{
+    margin: 16px 28px;
+    list-style: none;
+    float: left;
+}
+.header_navlist .float_none{
+    float: none;
+}
+
+.header_mainvisual{
+
+}
